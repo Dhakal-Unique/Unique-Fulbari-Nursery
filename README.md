@@ -30,9 +30,9 @@ A full-stack React web application for **Unique Fulbari Nursery** (Nepal) that p
 
 Small nursery businesses often struggle to respond to customer inquiries quickly, identify urgent issues, and turn customer feedback into business decisions. This project solves that by pairing a clean public website with an AI-powered admin dashboard.
 
-**Public site** — customers browse products, services, and a gallery, submit inquiries via a contact form, and chat with **Fulbari AI**, a context-aware plant assistant.
+**Public site** -customers browse products, services, and a gallery, submit inquiries via a contact form, and chat with **Fulbari AI**, a context-aware plant assistant.
 
-**Admin dashboard** — the nursery owner sees all submitted messages in real time, with automatic AI urgency classification (High / Medium / Low), AI-generated reply suggestions, and on-demand business advice generated from live customer data.
+**Admin dashboard** - the nursery owner sees all submitted messages in real time, with automatic AI urgency classification (High / Medium / Low), AI-generated reply suggestions, and on-demand business advice generated from live customer data.
 
 ---
 
@@ -209,7 +209,7 @@ Clicking **Generate Advice** on the dashboard builds a structured text summary f
 
 **Unique Dhakal**
 
-> Built with the assistance of **IBM Bob** — used throughout the project for architecture planning, implementation, and debugging.
+> Built with the assistance of **IBM Bob** - used throughout the project for architecture planning, implementation, and debugging.
 
 ---
 

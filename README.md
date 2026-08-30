@@ -3,7 +3,7 @@
 [![Live Website](https://img.shields.io/badge/Visit-Site-green?style=for-the-badge&logo=vercel)](https://unique-fulbari-nursery-whrc.vercel.app)
 
 
-A full-stack React web application for **Unique Fulbari Nursery** (Nepal) that pairs a public nursery website with an AI-powered admin dashboard — automating customer support, classifying inquiry urgency, and generating actionable business insights in real time.
+A full-stack React web application for **Unique Fulbari Nursery** (Nepal) that pairs a public nursery website with an AI-powered admin dashboard ; automating customer support, classifying inquiry urgency, and generating actionable business insights in real time.
 
 ## 🌐 Live Website
 [https://unique-fulbari-nursery-whrc.vercel.app](https://unique-fulbari-nursery-whrc.vercel.app)
@@ -40,15 +40,15 @@ Small nursery businesses often struggle to respond to customer inquiries quickly
 
 ### 🌐 Public Website
 - Hero section with nursery branding and call-to-action
-- Product gallery — roses, marigolds, dahlias, seasonal flowers, pots, manure, and gardening tools
-- Services section — plant sales, manure supply, gardening consultation, Nepal-wide delivery
-- **Smart contact form** — name, phone, email, categorised subject dropdown, and message; submissions persisted directly to Firebase Firestore
-- **Fulbari AI chatbot** — floating widget powered by the Groq API, context-restricted to nursery topics, with quick-suggestion chips and automatic retry logic on rate limits
+- Product gallery - roses, marigolds, dahlias, seasonal flowers, pots, manure, and gardening tools
+- Services section - plant sales, manure supply, gardening consultation, Nepal-wide delivery
+- **Smart contact form** - name, phone, email, categorised subject dropdown, and message; submissions persisted directly to Firebase Firestore
+- **Fulbari AI chatbot** - floating widget powered by the Groq API, context-restricted to nursery topics, with quick-suggestion chips and automatic retry logic on rate limits
 
 ### 📊 Admin Dashboard `/dashboard`
 - Live KPI strip: total messages, high / medium / low urgency counts, resolved and pending
 - Quick-access navigation to all sub-pages
-- **AI Business Advisor** — on demand, builds a rich summary of all customer messages and returns 6 numbered, specific, actionable business suggestions via Groq
+- **AI Business Advisor** - on demand, builds a rich summary of all customer messages and returns 6 numbered, specific, actionable business suggestions via Groq
 - Recent inquiries quick-view with urgency colour coding
 
 ### 📬 Contact Messages `/messages`
@@ -60,9 +60,9 @@ Small nursery businesses often struggle to respond to customer inquiries quickly
 - Mark as done / delete actions persisted to Firestore
 
 ### Other Dashboard Pages
-- **Urgency Detection** `/urgency` — dedicated view for high-priority messages
-- **Business Insights** `/insights` — AI-generated trend analysis from aggregated customer data
-- **Statistics** `/statistics` — customer inquiry KPIs and business metrics
+- **Urgency Detection** `/urgency` - dedicated view for high-priority messages
+- **Business Insights** `/insights` - AI-generated trend analysis from aggregated customer data
+- **Statistics** `/statistics` - customer inquiry KPIs and business metrics
 
 ---
 

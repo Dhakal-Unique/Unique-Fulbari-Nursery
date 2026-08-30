@@ -56,7 +56,7 @@ function Urgency() {
         Authorization: `Bearer ${import.meta.env.VITE_DASHBOARD_API_KEY}`,
       },
       body: JSON.stringify({
-        model: "llama3-8b-8192",
+        model: "gpt‑oss‑20B",
         messages: [
           {
             role: "user",

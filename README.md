@@ -74,8 +74,8 @@ Small nursery businesses often struggle to respond to customer inquiries quickly
 | UI Components | MUI (Material UI) v9, Emotion |
 | Build Tool | Vite 8 |
 | Database | Firebase Firestore (real-time) |
-| AI Chatbot | Groq API — `openai/gpt-oss-20b` |
-| AI Classification & Insights | Groq API — `llama3-8b-8192` |
+| AI Chatbot | Groq API - `openai/gpt-oss-20b` |
+| AI Classification & Insights | Groq API -`llama3-8b-8192` |
 | Linting | OXLint |
 | Deployment | Vite build + `_redirects` (Netlify / Render) |
 
@@ -189,7 +189,7 @@ When a visitor submits the contact form, the payload (name, email, phone, subjec
 The floating chatbot widget calls the Groq API with a fixed system prompt restricting answers to nursery-relevant topics (plants, manure, soil, gardening, Nepal delivery). Off-topic questions receive a polite redirect to the nursery's contact details. Up to 3 automatic retries handle rate-limit and server errors.
 
 ### AI Business Advisor
-Clicking **Generate Advice** on the dashboard builds a structured text summary from all Firestore messages — urgency breakdown, sentiment counts, top keywords, complaint and delivery-issue counts, bulk-order queries, repeated FAQ-style messages, and last-7-day highlights — then sends it to Groq, requesting 6 specific, numbered business suggestions.
+Clicking **Generate Advice** on the dashboard builds a structured text summary from all Firestore messages — urgency breakdown, sentiment counts, top keywords, complaint and delivery-issue counts, bulk-order queries, repeated FAQ-style messages, and last-7-day highlights : then sends it to Groq, requesting 6 specific, numbered business suggestions.
 
 ---
 

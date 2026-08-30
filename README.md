@@ -1,4 +1,4 @@
-# 🌱 Unique Fulbari Nursery — AI-Powered Customer Support System
+# 🌱 Unique Fulbari Nursery : AI-Powered Customer Support System
 
 [![Live Website](https://img.shields.io/badge/Visit-Site-green?style=for-the-badge&logo=vercel)](https://unique-fulbari-nursery-whrc.vercel.app)
 

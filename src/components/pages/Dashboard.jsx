@@ -115,7 +115,7 @@ function Dashboard() {
           Authorization: `Bearer ${import.meta.env.VITE_DASHBOARD_API_KEY}`,
         },
         body: JSON.stringify({
-          model: "gpt‑oss‑20B",
+          model: "openai/gpt-oss-20b",
           messages: [
             {
               role: "system",

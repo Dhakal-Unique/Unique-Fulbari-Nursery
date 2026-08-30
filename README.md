@@ -160,8 +160,6 @@ VITE_FIREBASE_APP_ID=your_app_id
 VITE_DASHBOARD_API_KEY=your_groq_api_key
 ```
 
-> **Never commit `.env.local` to version control.** It is already listed in `.gitignore`.
-
 ---
 
 ## Dashboard & Routes

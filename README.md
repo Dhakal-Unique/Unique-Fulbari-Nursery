@@ -77,7 +77,7 @@ Small nursery businesses often struggle to respond to customer inquiries quickly
 | AI Chatbot | Groq API - `openai/gpt-oss-20b` |
 | AI Classification & Insights | Groq API -`llama3-8b-8192` |
 | Linting | OXLint |
-| Deployment | Vite build + `_redirects` (Netlify / Render) |
+| Deployment | Vite build + `_redirects` (vercel / Render) |
 
 ---
 

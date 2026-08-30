@@ -5,6 +5,10 @@
 
 A full-stack React web application for **Unique Fulbari Nursery** (Nepal) that pairs a public nursery website with an AI-powered admin dashboard — automating customer support, classifying inquiry urgency, and generating actionable business insights in real time.
 
+## 🌐 Live Website
+[https://unique-fulbari-nursery-whrc.vercel.app](https://unique-fulbari-nursery-whrc.vercel.app)
+
+
 ---
 
 ## 📌 Table of Contents
